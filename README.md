@@ -1,4 +1,4 @@
-# Process-thread-synchronization
+# Process/thread synchronization
 
 FIFO buffer with n elements (n>3). There is one producer and three consumers (A, B, C). 
 Producer produces one element if there is a free space in the buffer. 
